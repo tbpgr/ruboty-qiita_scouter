@@ -26,7 +26,7 @@ describe Ruboty::QiitaScouter::Actions::Analyze do
         case_title: 'exist user case',
         id: 'tbpgr',
         power_levels: [600, 200, 300, 100],
-        expected: "ユーザー名: tbpgr 戦闘力: 600 攻撃力: 200 知力: 300 すばやさ: 100\n"
+        expected: "ユーザー名: tbpgr 戦闘力: 600 攻撃力: 200 知力: 300 すばやさ: 100"
       },
       {
         case_no: 2,

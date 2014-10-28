@@ -2,7 +2,7 @@ module Ruboty
   module QiitaScouter
     # Actions
     module Actions
-      DISPLAY_FORMAT = "ユーザー名: %s 戦闘力: %s 攻撃力: %s 知力: %s すばやさ: %s\n"
+      DISPLAY_FORMAT = "ユーザー名: %s 戦闘力: %s 攻撃力: %s 知力: %s すばやさ: %s"
       NOT_EXIST_MESSAGE = 'Failed by %s'
 
       # Analyze Qiita power
