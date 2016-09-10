@@ -3,8 +3,6 @@
 A Ruboty Handler + Actions plugin to analyze your Qiita power.
 
 [![Gem Version](https://badge.fury.io/rb/ruboty-qiita_scouter.svg)](http://badge.fury.io/rb/ruboty-qiita_scouter)
-[![Build Status](https://travis-ci.org/tbpgr/ruboty-qiita_scouter.png?branch=master)](https://travis-ci.org/tbpgr/ruboty-qiita_scouter)
-[![Coverage Status](https://coveralls.io/repos/tbpgr/ruboty-qiita_scouter/badge.png)](https://coveralls.io/r/tbpgr/ruboty-qiita_scouter)
 
 [Ruboty](https://github.com/r7kamura/ruboty) is Chat bot framework. Ruby + Bot = Ruboty
 
