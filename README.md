@@ -1,6 +1,6 @@
 # Ruboty::QiitaScouter
 
-An Ruboty Handler + Actions plugin to analyze your Qiita power.
+A Ruboty Handler + Actions plugin to analyze your Qiita power.
 
 [![Gem Version](https://badge.fury.io/rb/ruboty-qiita_scouter.svg)](http://badge.fury.io/rb/ruboty-qiita_scouter)
 [![Build Status](https://travis-ci.org/tbpgr/ruboty-qiita_scouter.png?branch=master)](https://travis-ci.org/tbpgr/ruboty-qiita_scouter)
